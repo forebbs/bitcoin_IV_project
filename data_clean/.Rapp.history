@@ -1,0 +1,3 @@
+load("/Users/rileyebbs/Desktop/clean_114_final/data_clean/final_dataset.rds")
+load("/Users/rileyebbs/Desktop/clean_114_final/data_clean/btc_weekly.rds")
+load("/Users/rileyebbs/Desktop/clean_114_final/data_clean/btc_weekly.rds")

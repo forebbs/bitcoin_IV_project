@@ -1,0 +1,4 @@
+load("/Users/rileyebbs/Desktop/clean_114_final/output/first_stage_model.rds")
+load("/Users/rileyebbs/Desktop/clean_114_final/output/iv_model.rds")
+load("/Users/rileyebbs/Desktop/clean_114_final/output/ols_model.rds")
+load("/Users/rileyebbs/Desktop/clean_114_final/output/first_stage_model.rds")
